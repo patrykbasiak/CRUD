@@ -1,0 +1,19 @@
+th,
+td {
+  text-align: center !important;
+  margin: auto 0 !important;
+}
+.operation_btn {
+  margin: 0.3rem !important;
+}
+.data-table {
+  box-shadow: 0px 0px 30px black;
+}
+.budgete {
+  font-size: 1.4rem;
+  text-align: end;
+}
+.budgete span {
+  font-weight: bold;
+}
+

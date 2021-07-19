@@ -1,0 +1,23 @@
+input,
+.rbt-input {
+  box-shadow: 0px 0px 10px rgb(39, 39, 39);
+}
+.drop {
+  height: 2.5rem;
+  border-radius: 0.3rem;
+  box-shadow: 0px 0px 10px rgb(39, 39, 39);
+}
+.rbt-close {
+  margin: 0.3rem;
+  border: none;
+  background-color: transparent;
+}
+.rbt-close span {
+  margin: -2rem;
+}
+.rbt-token {
+  color: rgb(71, 71, 71)!important;
+}
+.rbt-token:focus {
+  background-color: rgb(211, 211, 211)!important;
+}

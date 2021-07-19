@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+  margin-bottom: 5rem !important;
+}
+table {
+  width: 60% !important;
+  margin: 0 auto;
+  border: 1px solid rgb(129, 111, 111) !important;
+  border-collapse: collapse;
+  box-shadow: 0px 0px 20px rgb(39, 39, 39);
+}
+th {
+  font-weight: 600;
+}
